@@ -1,0 +1,2 @@
+# ObsidianMinimalOrigin
+一个视觉观感接近原生的极简obsidian主题
